@@ -1,0 +1,36 @@
+{
+  "name": "Wikimedia-Emoji-Bot",
+  "version": "1.0.0",
+  "description": "Wikimedia Emoji Bot",
+  "author": {
+    "primary": "Lauren Lampasone",
+    "secondary": "Alangi Derick"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ch3nkula/Wikimedia-Emoji-Bot",
+    "forked": "https://github.com/lolibrarian/NYPL-Emoji-Bot"
+  },
+  "dependencies": {
+    "twit": "1.x",
+    "ejs": "2.4.1",
+    "thenby": "^1.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ch3nkula/Wikimedia-Emoji-Bot/issues"
+  },
+  "homepage": "https://github.com/ch3nkula/Wikimedia-Emoji-Bot",
+  "main": "src/status.js",
+  "devDependencies": {
+    "eslint": "^3.3.0",
+    "foreman": "^1.4.1",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "`npm bin`/eslint . && `npm bin`/mocha --recursive",
+    "status": "`npm bin`/nf run bin/status",
+    "reply": "`npm bin`/nf run bin/reply",
+    "missing": "`npm bin`/nf run bin/missing"
+  }
+}
