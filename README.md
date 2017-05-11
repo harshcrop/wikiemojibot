@@ -2,10 +2,6 @@
 emoji bot relay the similar image in to return
 
 
-
-[![Build Status]
-
-
 ## Configuration
 
 1. Clone project:
