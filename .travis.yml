@@ -1,20 +1,6 @@
-# Pleasng technologies used
+# Programming technologies used
 language: node_js
 
 # Version
 node_js:
-  - "stable"
-
-# travis notification to the #wikidata-dev irc channel
-notifications:
-  irc:
-    channels:
-      - "irc.freenode.net#wikimedia-dev"
-    on_success: always # [always|never|change] # default: change
-    on_failure: always # [always|never|change] # default: always
-
-    # template/view on how the notifications will appear in the channel
-    template:
-      - "%{repository}#%{build_number} (%{branch} - %{commit} : %{author}): %{message}"
-      - "Change view : %{compare_url}"
-      - "Build details : %{build_url}"a
+  "stable"
