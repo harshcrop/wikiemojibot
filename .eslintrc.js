@@ -1,30 +1,44 @@
 module.exports = {
     "env": {
-        "browser": true,
-        "commonjs": true
+        "es6": true,
+        "node": true,
+        "mocha": true
     },
     "extends": "eslint:recommended",
-    "parserOptions": {
-        "ecmaFeatures": {
-            "jsx": true
-        }
-    },
     "rules": {
+        "array-bracket-spacing": [
+            "error",
+            "always"
+        ],
         "indent": [
             "error",
-            "tab"
+            2
         ],
+        "keyword-spacing": ["error", {
+            "before": true,
+            "after": true
+        }],
         "linebreak-style": [
             "error",
             "unix"
         ],
+        "no-console": [ "off" ],
+        "object-curly-spacing": [
+             "error",
+             "always"
+        ],
         "quotes": [
             "error",
-            "double"
+            "single"
         ],
         "semi": [
             "error",
             "always"
+        ],
+        "space-in-parens": [
+            "error",
+            "never"
         ]
     }
+
 };
