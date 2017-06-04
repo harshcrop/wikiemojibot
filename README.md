@@ -1,6 +1,7 @@
 # Wikimedia Emoji Bot
 
-https://travis-ci.org/harshcrop/wikiemojibot.svg?branch=master
+
+[![Build Status](https://travis-ci.org/harshcrop/wikiemojibot.svg?branch=master)](https://travis-ci.org/harshcrop/wikiemojibot)
 
 The source code for the Wikimedia Emoji Bot lives here
 
