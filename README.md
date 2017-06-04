@@ -1,12 +1,14 @@
 # Wikimedia Emoji Bot
 
+https://travis-ci.org/harshcrop/wikiemojibot.svg?branch=master
+
 The source code for the Wikimedia Emoji Bot lives here
 
 ## Configuration
 
 1. Clone project:
   ```shell
-  git clone 
+  git clone https://github.com/harshcrop/wikiemojibot
   ```
 
 2. Install Need Package Manager/Management (NPM) on Mac OS X:
