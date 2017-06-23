@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo 'Starting Twitter reply process'
-
-node script/reply.js
