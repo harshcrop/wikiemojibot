@@ -17,7 +17,7 @@
     "thenby": "^1.2.1"
   },
   "bugs": {
-    "url": "https://github.com/ch3nkula/wikiemojibot/issues"
+    "url": "https://github.com/harshcrop/wikiemojibot/issues"
   },
   "homepage": "https://github.com/harshcrop/wikiemojibot",
   "main": "src/status.js",
