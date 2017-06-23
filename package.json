@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "wikiemojibot",
   "author": {
-    "primary": "Harsh Shah"    
+    "primary": "Harsh Shah"
   },
   "license": "MIT",
   "repository": {
@@ -12,9 +12,10 @@
     "forked": "https://github.com/lolibrarian/NYPL-Emoji-Bot"
   },
   "dependencies": {
-    "twit": "1.x",
+    "dotenv": "^4.0.0",
     "ejs": "2.4.1",
-    "thenby": "^1.2.1"
+    "thenby": "^1.2.1",
+    "twit": "^1.1.20"
   },
   "bugs": {
     "url": "https://github.com/harshcrop/wikiemojibot/issues"
