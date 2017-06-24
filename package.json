@@ -9,7 +9,7 @@
     "url": "https://github.com/harshcrop/wikiemojibot"
   },
   "dependencies": {
-    "twit": "1.x",
+    "twit": "2.x",
     "ejs": "2.4.1",
     "thenby": "^1.2.1"
   },
