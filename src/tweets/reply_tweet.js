@@ -20,6 +20,7 @@ class ReplyTweet {
     let modifier = findModifier(key, this.request_tweet.getText());
 
     return modifier ? (key + modifier) : key;
+    require('dotenv').config();
   }
 
   getInReplyToStatusID() {
