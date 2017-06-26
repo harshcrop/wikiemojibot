@@ -16,6 +16,7 @@ stream.on('tweet', (payload) => {
 
     let reply_tweet = new ReplyTweet(request_tweet, image);
     Twitter.reply(reply_tweet);
+    require('dotenv').config();
   }
 });
 
