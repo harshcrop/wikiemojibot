@@ -9,10 +9,9 @@
     "url": "https://github.com/harshcrop/wikiemojibot"
   },
   "dependencies": {
-    "dotenv": "^4.0.0",
+    "twit": "1.x",
     "ejs": "2.4.1",
-    "thenby": "^1.2.1",
-    "twit": "1.x"
+    "thenby": "^1.2.1"
   },
   "bugs": {
     "url": "https://github.com/harshcrop/wikiemojibot/issues"
