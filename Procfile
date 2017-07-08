@@ -1,1 +1,1 @@
-worker: ../bin/reply
+worker: bin/reply
