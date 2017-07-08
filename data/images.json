@@ -169,7 +169,7 @@
         
     ],
     "😴": ["https://commons.wikimedia.org/wiki/File:Face_Sculpture_in_Garden.jpg?uselang=en-gb",
-        "https://commons.wikimedia.org/wiki/File:Sleeping_Hermaphroditus_-_Palazzo_Altemps_-_Roma.JPG"
+         "https://commons.wikimedia.org/wiki/File:Sleeping_Hermaphroditus_-_Palazzo_Altemps_-_Roma.JPG"
         
     ],
     "😵": [
@@ -180,8 +180,181 @@
     ],
     "😷": [],
 
-      "#️⃣":["https://commons.wikimedia.org/wiki/File:Emoji_u0023_20e3.svg",
+    
+    "🌱": [
+        "https://commons.wikimedia.org/wiki/Category:Seeds#/media/File:Germinating_seedling.jpg"
+    ],
+    "🌲": [
+        "https://commons.wikimedia.org/wiki/Category:Trees#/media/File:A_tree_in_a_Jungle.jpg"
+    ],
+    "🌳": [
+        "https://commons.wikimedia.org/wiki/File:Linde_von_linn.jpg"
+    ],
+    "🌴": [
+        "https://commons.wikimedia.org/wiki/File:A%C3%A7aizeiro_no_pal%C3%A1cio.JPG"
+    ],
+    "🌵": [
+        "https://commons.wikimedia.org/wiki/Category:Cactaceae#/media/File:Cactus_3.jpg",
+        "https://commons.wikimedia.org/wiki/Category:Cactaceae#/media/File:Cactus_-_panoramio_(9).jpg"
+    ],
+    "🌶": [
+        "https://commons.wikimedia.org/wiki/File:Turcja,_suszenie_papryki(Aw58).JPG"
+        
+    ],
+    "🌹": [
+        "https://commons.wikimedia.org/wiki/Rosa#/media/File:Rosa_Red_Chateau01.jpg",
+        "https://commons.wikimedia.org/wiki/Rosa#/media/File:Rainbow_Rose_(3366550029).jpg",
+        "https://commons.wikimedia.org/wiki/Rosa#/media/File:Mrs._Herbert_Stevens_May_2008.jpg"
+    ],
+    "🌸": ["https://commons.wikimedia.org/wiki/Category:Blossoms#/media/File:Almond_Blossom_Time_(12702791045).jpg",
+           "https://commons.wikimedia.org/wiki/Category:Blossoms#/media/File:2010-05-24_Himbeerbl%C3%BCte_01.jpg"
+        ],
+    "🌷": [
+        "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulipa_Angelique.jpg",
+        "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulipa_%27Apeldoorn_Elite%27_a1.jpg",
+        "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulips_(Apricot_Perfection_cultivar),_Real_Jard%C3%ADn_Bot%C3%A1nico,_Madrid.jpg",
+        "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulipan_Darwina_%27Beauty_of_Apeldoorn%27_a1.jpg"
+    ],
+    "🌺": [
+        "https://commons.wikimedia.org/wiki/Hibiscus_ovalifolius?uselang=en-gb#/media/File:Hibiscus_ovalifolius_(Forssk.)Vahl._-_Flickr_-_lalithamba.jpg"
+    ],
+    "🌻": [
+        "https://digitalcollections.nypl.org/items/510d47e3-6618-a3d9-e040-e00a18064a99"
+    ],
+    "🌼": [
+        "https://digitalcollections.nypl.org/items/510d47e3-358d-a3d9-e040-e00a18064a99"
+    ],
+    "🌽": [
+        "https://digitalcollections.nypl.org/items/510d47e3-6477-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/510d47e2-d1df-a3d9-e040-e00a18064a99"
+    ],
+    "🌾": [
+        "https://digitalcollections.nypl.org/items/510d47e0-11aa-a3d9-e040-e00a18064a99"
+    ],
+    "🌿": [
+        "https://digitalcollections.nypl.org/items/510d47dd-c5b0-a3d9-e040-e00a18064a99"
+    ],
+    "🍀": [
+        "https://digitalcollections.nypl.org/items/510d47db-850e-a3d9-e040-e00a18064a99"
+    ],
+    "🍁": [
+        "https://digitalcollections.nypl.org/items/510d47e0-0874-a3d9-e040-e00a18064a99"
+    ],
+    "🍂": [
+        "https://digitalcollections.nypl.org/items/510d47e4-7a6f-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/510d47e2-498b-a3d9-e040-e00a18064a99"
+    ],
+    "🍃": [
+        "https://digitalcollections.nypl.org/items/510d47e4-1050-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/a4958095-45b6-074d-e040-e00a1806792c"
+    ],
+    "🍄": [
+        "https://digitalcollections.nypl.org/items/510d47e2-dee0-a3d9-e040-e00a18064a99"
+    ],
+    "🍅": [
+        "https://digitalcollections.nypl.org/items/510d47dd-c6b1-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/ae6c1dd9-5859-f55a-e040-e00a18062565"
+    ],
+    "🍆": [
+        "https://digitalcollections.nypl.org/items/510d47e2-f5a8-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/510d47dc-7c97-a3d9-e040-e00a18064a99"
+    ],
+    "🍇": [
+        "https://digitalcollections.nypl.org/items/510d47dc-892e-a3d9-e040-e00a18064a99"
+    ],
+    "🍈": [
+        "https://digitalcollections.nypl.org/items/510d47dc-7de3-a3d9-e040-e00a18064a99"
+    ],
+    "🍉": [
+        "https://digitalcollections.nypl.org/items/510d47db-5173-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/510d47e2-cebc-a3d9-e040-e00a18064a99"
+    ],
+    "🍊": [
+        "https://digitalcollections.nypl.org/items/510d47dc-93c6-a3d9-e040-e00a18064a99"
+    ],
+    "🍋": [
+        "https://digitalcollections.nypl.org/items/510d47dc-9395-a3d9-e040-e00a18064a99"
+    ],
+    "🍌": [
+        "https://digitalcollections.nypl.org/items/510d47dd-f132-a3d9-e040-e00a18064a99"
+    ],
+    "🍍": [
+        "https://digitalcollections.nypl.org/items/510d47dd-c3f0-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/510d47dc-8913-a3d9-e040-e00a18064a99"
+    ],
+    "🍎": [
+        "https://digitalcollections.nypl.org/items/510d47de-5d7f-a3d9-e040-e00a18064a99"
+    ],
+    "🍏": [
+        "https://digitalcollections.nypl.org/items/510d47db-5802-a3d9-e040-e00a18064a99"
+    ],
+    "🍐": [
+        "https://digitalcollections.nypl.org/items/510d47dd-d91d-a3d9-e040-e00a18064a99"
+    ],
+    "🍑": [
+        "https://digitalcollections.nypl.org/items/510d47dd-e29c-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/510d47dc-88e7-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/510d47dc-88d4-a3d9-e040-e00a18064a99"
+    ],
+    "🍒": [
+        "https://digitalcollections.nypl.org/items/510d47dd-d8d5-a3d9-e040-e00a18064a99"
+    ],
+    "🍓": [
+        "https://digitalcollections.nypl.org/items/510d47da-93b9-a3d9-e040-e00a18064a99"
+    ],
+    "🍔": [
+        "https://digitalcollections.nypl.org/items/7e1b1060-6215-0132-5953-58d385a7bbd0"
+    ],
+    "🍕": [
+        "https://digitalcollections.nypl.org/items/ae6c1dd9-555e-f55a-e040-e00a18062565",
+        "https://digitalcollections.nypl.org/items/ae2f51ec-bfc7-66c6-e040-e00a18066cf3",
+        "https://digitalcollections.nypl.org/items/ae6c1dd9-5876-f55a-e040-e00a18062565"
+    ],
+    "🍖": [
+        "https://digitalcollections.nypl.org/items/5e66b3e8-e177-d471-e040-e00a180654d7"
+    ],
+    "🍗": [
+        "https://digitalcollections.nypl.org/items/510d47e3-6485-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/5e66b3e8-bfe5-d471-e040-e00a180654d7",
+        "https://digitalcollections.nypl.org/items/5e66b3e8-eea7-d471-e040-e00a180654d7"
+    ],
+    "🥞": [
+        "https://digitalcollections.nypl.org/items/510d47dd-a4bc-a3d9-e040-e00a18064a99",
+        "https://digitalcollections.nypl.org/items/ae2f51ec-be46-66c6-e040-e00a18066cf3"
+    ],
+    "🍘": [],
+    "🍙": [
+        "https://digitalcollections.nypl.org/items/a6249ebc-895b-849c-e040-e00a18060616"
+    ],
+    "🍚": [
+        "https://digitalcollections.nypl.org/items/c261ef12-e4cc-3577-e040-e00a18067776"
+    ],
+    "🍛": [
+        "https://digitalcollections.nypl.org/items/510d47db-4f05-a3d9-e040-e00a18064a99"
+    ],
+    "🍜": [
+        "https://digitalcollections.nypl.org/items/ba355981-5687-de30-e040-e00a1806351c"
+    ],
+    "🍝": [
+        "https://digitalcollections.nypl.org/items/5e66b3e8-f2ef-d471-e040-e00a180654d7",
+        "https://digitalcollections.nypl.org/items/ae6c1dd9-598e-f55a-e040-e00a18062565"
+    ],
+    "🍞": [
+        "https://digitalcollections.nypl.org/items/bb13368d-1df6-86eb-e040-e00a18066010"
+    ],
+    "🍟": [
+        "https://digitalcollections.nypl.org/items/510d47db-008e-a3d9-e040-e00a18064a99"    
+    ],
+    "🍠": [
+        "https://digitalcollections.nypl.org/items/5e66b3e8-ced9-d471-e040-e00a180654d7"
+    ],
+    "🍡": [
+        ],
+
+
+    "#️⃣":["https://commons.wikimedia.org/wiki/File:Emoji_u0023_20e3.svg",
         "https://commons.wikimedia.org/wiki/File:Diesepournous.png"],
+
     "*⃣": [],
     "0️⃣": ["https://commons.wikimedia.org/wiki/File:Hand_0.gif"],
     "1️⃣": [],
