@@ -212,7 +212,6 @@
     "🌷": [
         "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulipa_Angelique.jpg",
         "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulipa_%27Apeldoorn_Elite%27_a1.jpg",
-        "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulips_(Apricot_Perfection_cultivar),_Real_Jard%C3%ADn_Bot%C3%A1nico,_Madrid.jpg",
         "https://commons.wikimedia.org/wiki/Tulipa_cultivars#/media/File:Tulipan_Darwina_%27Beauty_of_Apeldoorn%27_a1.jpg"
     ],
     "🌺": [
@@ -245,7 +244,7 @@
         "https://commons.wikimedia.org/wiki/File:Dried_fallen_leaf.jpg"
     ],
     "🍃": [
-        "https://commons.wikimedia.org/w/index.php?search=leaf+fluttering&title=Special:Search&profile=default&fulltext=1&uselang=en-gb&searchToken=5q8w8iwbfamqcbkqqdjmd0nfd#/media/File:Nature_neighbors,_embracing_birds,_plants,_animals,_minerals,_in_natural_colors_by_color_photography,_containing_articles_by_Gerald_Alan_Abbott,_Dr._Albert_Schneider,_William_Kerr_Higley...and_other_(14747290271).jpg",
+        "https://commons.wikimedia.org/w/index.php?search=leaf+fluttering&title=Special:Search&profile=default&fulltext=1&uselang=en-gb&searchToken=5q8w8iwbfamqcbkqqdjmd0nfd#/media/File:Nature_neighbors,_embracing_birds,_plants,_animals,_minerals,_in_natural_colors_by_color_photography,_containing_articles_by_Gerald_Alan_Abbott,_Dr._Albert_Schneider,_William_Kerr_Higley...and_other_(14747290271).jpg"
         
     ],
     "🍄": [
@@ -326,7 +325,12 @@
         "https://commons.wikimedia.org/wiki/File:DoubleChocolatePancakes.jpg",
         "https://commons.wikimedia.org/wiki/File:SourdoughPancakes.jpg"
     ],
-    "🍘": ["https://commons.wikimedia.org/wiki/File:Rice_cracker,_peanut_butter,_and_marshmallow_fluff.jpg?uselang=en-gb"],
+
+    "🍘": [
+        "https://commons.wikimedia.org/wiki/File:Rice_cracker,_peanut_butter,_and_marshmallow_fluff.jpg?uselang=en-gb"
+
+    ],
+
     "🍙": [
         "https://commons.wikimedia.org/wiki/File:ChickenRiceBall.jpg?uselang=en-gb"
     ],
@@ -395,15 +399,14 @@
         "https://digitalcollections.nypl.org/items/510d47e3-c0e8-a3d9-e040-e00a18064a99"
     ],
     "🐍": [
-        "https://digitalcollections.nypl.org/items/510d47e1-1e18-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/5e66b3e9-13a2-d471-e040-e00a180654d7"
+        "https://commons.wikimedia.org/wiki/File:Natrix_natrix_(Marek_Szczepanek).jpg"
+        
     ],
     "🐎": [
-        "https://digitalcollections.nypl.org/items/510d47e2-1af8-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/510d47d9-83b0-a3d9-e040-e00a18064a99"
+        
     ],
     "🐏": [
-        "https://digitalcollections.nypl.org/items/510d47e2-d22f-a3d9-e040-e00a18064a99"
+        
     ],
     "🐐": [
         "https://digitalcollections.nypl.org/items/510d47e2-d4a4-a3d9-e040-e00a18064a99"
@@ -549,31 +552,22 @@
         "https://digitalcollections.nypl.org/items/510d47da-9dde-a3d9-e040-e00a18064a99"
     ],
     "🐶": [
-        "https://digitalcollections.nypl.org/items/510d47e1-43b1-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/510d47da-05a8-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/510d47da-c980-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/510d47e3-20e7-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/5da15340-964a-0130-1b3f-58d385a7bbd0",
-        "https://digitalcollections.nypl.org/items/53460140-e04c-0131-32c5-58d385a7bbd0",
-        "https://digitalcollections.nypl.org/items/510d47db-c4d3-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/c3903dcb-c932-6201-e040-e00a180642e6",
-        "https://digitalcollections.nypl.org/items/5e66b3e8-c083-d471-e040-e00a180654d7"
+        "https://commons.wikimedia.org/wiki/File:Beagle_puppy%27s_head.png",
+        "https://commons.wikimedia.org/wiki/File:Boxer_Paco.JPG",
+        "https://commons.wikimedia.org/wiki/File:Bull_Dog_Ingles_Arturo.jpg"
     ],
     "🐷": [
-        "https://digitalcollections.nypl.org/items/13f6df60-f6ce-0130-6cc6-58d385a7bbd0",
-        "https://digitalcollections.nypl.org/items/78d93b50-e052-0131-61ee-58d385a7b928"
+        
     ],
     "🐸": [
-        "https://digitalcollections.nypl.org/items/510d47e3-9abe-a3d9-e040-e00a18064a99"
+        "https://commons.wikimedia.org/wiki/File:Red_eyed_tree_frog_edit2.jpg?uselang=en-gb"
     ],
     "🐹": [
-        "https://digitalcollections.nypl.org/items/510d47d9-78a5-a3d9-e040-e00a18064a99"
+        "https://commons.wikimedia.org/wiki/File:Goldhamster_2.jpg?uselang=en-gb"
     ],
     "🐺": [
-        "https://digitalcollections.nypl.org/items/510d47da-bc6f-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/510d47d9-5311-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/510d47da-9bca-a3d9-e040-e00a18064a99",
-        "https://digitalcollections.nypl.org/items/510d47da-9df4-a3d9-e040-e00a18064a99"
+        "https://commons.wikimedia.org/wiki/File:Eurasian_wolf.JPG",
+        "https://commons.wikimedia.org/wiki/File:Musei_Leveriani_explicatio,_anglica_et_latina_BHL29568411.jpg"
     ],
     "🐻": [
         "https://commons.wikimedia.org/wiki/File:Close_up_american_black_bear_face.jpg?uselang=en-gb"
