@@ -52,4 +52,4 @@ function _twitterImagePub(myTweetObj, resolve, reject) {
     }); // end '/media/metadata/create'
 
   }); // end T.postMedisChunked
-}
+}git statsugit statusgit push te pucchyu lpela uncle ne ?git checkout -b testuploadgit statusgit add .git commit -m "add upload.js for test"hagit statusgit pushgit checkout mastergit statullsgit pushnpm testpuchh ne keh nahi to vandho nahi it's okaynavu work avyu hajami leohi am going for lunch see ya ! 360 picyoyo mali jay
