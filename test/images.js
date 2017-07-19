@@ -113,7 +113,7 @@ describe('Images', () => {
           let image = images.getFromText('@some_bot ⚙');
 
           assert.equal(image.getKey(), '⚙');
-          assert.equal(image.toString(), '¯\\_(ツ)_/¯ Try searching digitalcollections.nypl.org for that!');
+          assert.equal(image.toString(), '¯\\_(ツ)_/¯ Try searching https://commons.wikimedia.org/wiki/Category:Images for that!');
         });
       });
 
