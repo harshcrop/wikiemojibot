@@ -10,7 +10,7 @@ class ImageIncomplete {
   }
 
   toString() {
-    return '¯\\_(ツ)_/¯ Try searching digitalcollections.nypl.org for that!';
+    return '¯\\_(ツ)_/¯ Try searching https://commons.wikimedia.org/wiki/Category:Images for that!';
   }
 }
 
