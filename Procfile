@@ -1,1 +1,1 @@
-worker: bin/reply
+worker: node script/reply.js
