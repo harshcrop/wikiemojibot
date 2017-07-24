@@ -1,1 +1,1 @@
-worker: node script/reply.js
+worker: npm run reply
