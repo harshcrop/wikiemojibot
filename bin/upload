@@ -1,0 +1,5 @@
+#!/bin/bashs
+
+echo 'Starting Upload Image'
+
+node script/upload.js
