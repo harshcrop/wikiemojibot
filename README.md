@@ -75,4 +75,4 @@ Emoji additions, bug reports, fixes, and new features are welcomed. If you'd lik
 
 ## Forked / Built on
 
-This project is originally built on the [NYPL Emoji Bot project](https://github.com/lolibrarian/NYPL-Emoji-Bot). Initial credits go to: Lauren Lampasone and other contributors for building the NYPL-Emoji-Bot.
+This project is originally built on the [NYPL Emoji Bot project](https://github.com/lolibrarian/NYPL-Emoji-Bot). Initial credits go to: Lauren Lampasone and other contributors for building the NYPL-Emoji-Bot.Readme file inspire by d3r1ck.

@@ -1,1 +1,1 @@
-worker: bin/reply
+worker: npm bin`/nf run bin/reply
